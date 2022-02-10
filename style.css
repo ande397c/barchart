@@ -1,0 +1,15 @@
+#bars {
+  display: flex;
+  height: 20rem;
+  margin-top: 25rem;
+}
+
+.bar {
+  background-color: rgba(92, 88, 88, 0.616);
+  margin-left: 1rem;
+  flex-grow: 1;
+  margin-left: 3px;
+  height: 60%;
+  transform: rotatex(180deg);
+  transform-origin: top;
+}
