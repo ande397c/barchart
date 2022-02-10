@@ -11,7 +11,7 @@ let counter = 0;
 
 function setup() {
   console.log("setup");
-  // setTimeout(loop, 1000);
+  setTimeout(loop, 1000);
 }
 
 function loop() {
